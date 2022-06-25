@@ -1,0 +1,15 @@
+c:\users\asus\documents\visual studio 2013\Projects\Ayubo\Ayubo\bin\Debug\Ayubo.exe.config
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\bin\Debug\Ayubo.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\bin\Debug\Ayubo.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Day_Tour_Details.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Form1.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.HomePage.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Package_Details.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Rent_Details.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Vehicle_Details.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Long_Tour_Details.resources
